@@ -3,8 +3,8 @@
 #include <WebServer.h>
 
 // Replace with your network credentials
-const char* ssid = "tinker";
-const char* password = "makeelectronicsfun";
+const char* ssid = "YOURSSID";
+const char* password = "YOURPASSWORD";
 
 WebServer server(80);
 
